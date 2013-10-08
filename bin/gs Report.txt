@@ -1,0 +1,312 @@
+﻿gs.swf Movie Report
+--------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1        2206660        2206660    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 60681
+
+Symbol                 Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------    -----------    ----------    ------------------
+acquireitbutton                 36            31                     0
+aquireIt                         0            45                     0
+arrows                           0            32                     0
+b_txt                            0             0                     0
+BackBtn                          0            64                     0
+background                       0             0                     0
+bg_mask_mc                       0             0                     0
+bill_mc                          0             0                     0
+blank                            0             0                     0
+blimpHitClip                    80             0                     0
+board                            0             0                     0
+book                             0             0                     0
+bookkidhit                     334             0                     0
+bookkidrollover                  0             0                     0
+buttercup                        0             0                     0
+buttonbox                        0             0                     0
+buy button                       0             0                     0
+chef_mc                          0             0                     0
+chefhighlight                    0             0                     0
+coin1                            0             0                     0
+coin2                            0             0                     0
+ComradeItem                      0           173                     0
+ComradesClip                     0             0                     0
+linkpapergraphic                 0            81                     0
+contactitem                      0             0                     0
+contactlinkbutton                0            48                     0
+poster                           0             0                     0
+posterMail                       0             0                     0
+return2_mc                       0            70                     0
+contain_mc                       0             0                     0
+DEBUG CLIP                       0             0                     0
+dog_c_mc                         0             0                     0
+dog_v_mc                         0             0                     0
+dog2_mc                          0             0                     0
+dog3_mc                          0             0                     0
+DogClip                          0             0                     0
+dogStamp                         0             0                     0
+stamp_braxatoo                   0             0                     0
+frost_dog                        0             0                     0
+Symbol 2                         0             0                     0
+holder                           0             0                     0
+infobox                          0             0                     0
+infobox2                         0             0                     0
+infobox3                         0            50                     0
+infobox4                         0             0                     0
+infobox5                         0             0                     0
+infobox6                         0             0                     0
+infobox7                         0             0                     0
+infoboxshape                     0             0                     0
+infoboxshape2                    0             0                     0
+infoboxshape3                   71             0                     0
+infoboxshape4                    0             0                     0
+infoboxshape5                    0             0                     0
+infoboxshape6                    0             0                     0
+infoboxshape7                    0             0                     0
+lbj_doghead                      0             0                     0
+lbj_mouth                        0             0                     0
+linksbtn                         0             0                     0
+linktext                         0             0                     0
+loadbar                          0             0                     0
+loaderArc                        0             0                     0
+loaderbar                        0             0                     0
+loadermask                       0             0                     0
+loaderSegment                    0             0                     0
+loaderwatch                      0             0                     0
+loadwatchcopy                    0             0                     0
+lower_mc                         0             0                     0
+mariachihand2                    0             0                     0
+mariachihands                    0             0                     0
+menubtnhit                       0             0                     0
+menuitembtn                      0             0                     0
+menumask1                        0             0                     0
+menutext                         0             0                     0
+music_toggle                     0             0                     0
+nextprevbutns                    0             0                     0
+nextprevtext                     0             0                     0
+outofstock                       0             0                     0
+papershadow                      0             0                     0
+passport                         0             0                     0
+passportholder                   0             0                     0
+plate_mc                         0             0                     0
+plateshadow                      0             0                     0
+portfoliopaper                   0             0                     0
+rect_g                          37             0                     0
+projectorClip                    0             0                     0
+shade_small                      0             0                     0
+ProjectorContent                 0           221                     0
+viewtv_mc                       38            41                     0
+ScrollClip                       0             0                     0
+puppyTriggetHit                110             0                     0
+returnhiddenshape                0             0                     0
+rollover-contact                 0             0                     0
+rollover-dogs                    0             0                     0
+rollover-links                   0             0                     0
+rollover-manifesto               0             0                     0
+rollover-store                   0             0                     0
+scrollsymbol                    34            30                     0
+secondhand                       0             0                     0
+shade                            0             0                     0
+ShopClip                         0             0                     0
+storemenumask                   39             0                     0
+ShopItem                         0           621                     0
+socialBook                       0             0                     0
+socialItem                       0           169                     0
+staffcard                        0             0                     0
+staffmenuitem                    0             0                     0
+staffpic_mc                      0             0                     0
+staffpicbg_mc                    0             0                     0
+staffrollover                    0             0                     0
+Symbol 1                         0             0                     0
+Symbol 302                       0             0                     0
+Symbol 314                       0             0                     0
+Symbol 315                       0             0                     0
+Symbol 316                       0             0                     0
+Symbol 317                       0             0                     0
+Symbol 318                       0             0                     0
+Symbol 319                       0             0                     0
+Symbol 320                       0             0                     0
+Symbol 333                       0             0                     0
+Symbol 335                       0             0                     0
+Symbol 338                       0             0                     0
+Symbol 340                       0             0                     0
+Symbol 341                       0             0                     0
+temp-shopnotes                   0             0                     0
+tempvideo                        0             0                     0
+testhit                          0             0                     0
+textfields                       0             0                     0
+thumbholder                      0             0                     0
+bakerrollover                    0             0                     0
+BlimpTrigger                     0             0                     0
+chefhit                        155             0                     0
+chefrollover                     0             0                     0
+ChefTrigger                      0             0                     0
+ciggirlhit                     292             0                     0
+ciggirlrollover                  0             0                     0
+contactmask                      0             0                     0
+cosmonauthit                     0             0                     0
+firsbeedoghit                    0             0                     0
+frisbeedogrollover               0             0                     0
+goldierhit                     162             0                     0
+gondolierrollover                0             0                     0
+IllustrationTrigger              0             0                     0
+trig13hit                       36             0                     0
+lbjhit                         181             0                     0
+lbjrollover                      0             0                     0
+mariachihit                    389             0                     0
+mariachirollover                 0             0                     0
+MariachiTrigger                  0             0                     0
+megaphonehit                   279             0                     0
+megaphonerollover                0             0                     0
+naut_e_rollover                  0             0                     0
+naut2brollover                   0             0                     0
+naut2crollover                   0             0                     0
+naut2drollover                   0             0                     0
+nauthit1                         0             0                     0
+nauthit2                         0             0                     0
+nauthit3                      3358             0                     0
+nauthit4                         0             0                     0
+nauthit5                         0             0                     0
+PoliceGirlTrigger                0             0                     0
+policesignhit                  502             0                     0
+policesignrollover               0             0                     0
+PuppyManTrigger                  0             0                     0
+rapperhitarea                  541             0                     0
+rapperrollover                   0             0                     0
+trig1_mc                         0             0                     0
+trig2_e                          0             0                     0
+trig2_mc                         0             0                     0
+trig2a                           0             0                     0
+trig2arollover                   0             0                     0
+trig2b                           0             0                     0
+trig2c                           0             0                     0
+trig2d                           0             0                     0
+trig3                           59             0                     0
+trig4                            0             0                     0
+trig7_mc                         0             0                     0
+trig12                           0             0                     0
+TriggersClip                     0             0                     0
+WaldoTrigger                     0             0                     0
+turnthepage                      0             0                     0
+videoplayer                      0             0                     0
+box                              0             0                     0
+buffer                           0             0                     0
+loadBar                          0             0                     0
+loader                           0             0                     0
+pbutton                          0             0                     0
+pbuttonpause                     0             0                     0
+playButton                       0             0                     0
+previewimage                     0             0                     0
+progBar                          0             0                     0
+viewads                          0             0                     0
+watchhourhand                    0             0                     0
+wavearmgraphic                   0             0                     0
+wavearmmc                        0             0                     0
+
+Font Name                     Bytes         Characters
+--------------------------    ----------    ----------
+AmericanTypewriter                 32063     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+TradeGothic-BoldCondTwenty         13859     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›™
+
+ActionScript Bytes    Location
+------------------    --------
+             60681    Scene 1:Frame 1
+
+Bitmap                           Compressed    Original      Compression
+-----------------------------    ----------    ----------    -----------
+shop_temporarily.png                   4367         29184    JPEG Quality=92
+stamp_orange.png                      18282        128000    JPEG Quality=92
+stamp_blue.png                        24800        158752    JPEG Quality=92
+stamp_purple.png                      21717        142296    JPEG Quality=92
+stamp_frosty.png                      20602        146188    JPEG Quality=92
+stamp_buttercup.png                   19961        133200    JPEG Quality=92
+stamp_braxatoo.png                    20451        121520    JPEG Quality=92
+return_paper.png                       2810         18240    JPEG Quality=92
+stamp_award.png                        8171         51620    JPEG Quality=92
+socialmedia_book.png                  44912        965960    JPEG Quality=74
+mail_arrows.png                         175           392    Lossless
+contact2012_1.png                     33177       2747200    JPEG Quality=90
+contact2012_2.png                     19416       2747200    JPEG Quality=60
+contact2012_3.png                     28196       2747200    JPEG Quality=60
+contact2012_4.png                     26824       2747200    JPEG Quality=60
+contact2012_5.png                     33173       2747200    JPEG Quality=60
+contact2012_6.png                     59904       2747200    JPEG Quality=60
+contact2012_7.png                    158472       2747200    JPEG Quality=90
+linkspaper.png                        59257       1056000    JPEG Quality=92
+shop_canvas.png                      345943       2747200    JPEG Quality=92
+bill.png                             107416        708696    JPEG Quality=92
+coin47.png                            27420        260100    JPEG Quality=92
+coin50.png                            32777        260100    JPEG Quality=92
+rollover_staff_glow.png              104841       1475424    JPEG Quality=92
+rollover_work.png                      5224         39904    JPEG Quality=92
+rollover_gondolier.png                 3476         24592    JPEG Quality=92
+rollover_LBJ_dog1.png                  1240          3240    JPEG Quality=92
+rollover_LBJ_mouth.png                 1214          1700    Lossless
+rollover_LBJ_glow.png                  3688         33408    JPEG Quality=92
+rollover_brinley.png                  29606         75924    Lossless
+rollover_contact_mouth.png              439          1020    Lossless
+rollover_contact_glow.png             15593        172672    JPEG Quality=92
+rollover_contact.png                   6629         53504    JPEG Quality=92
+rollover_dogs_glow.png                 5375         34608    JPEG Quality=92
+rollover_stamps.png                    4846         39904    JPEG Quality=92
+rollover_signpeople_mouth.png           265           988    Lossless
+rollover_signpeople_glow.png          16815        363268    JPEG Quality=92
+rollover_shop_mouth.png                 303           504    Lossless
+rollover_shop_glow.png                10127        130104    Lossless
+rollover_store.png                     5226         39904    JPEG Quality=92
+rollover_book_mouth.png                 235           280    Lossless
+rollover_book_glow.png                15296        173160    JPEG Quality=92
+rollover_manifesto.png                 5387         39904    JPEG Quality=92
+rollover_mariachi_glow.png             8711        133632    JPEG Quality=92
+rollover_mariachi_hand1.png            1201          3328    JPEG Quality=92
+rollover_mariachi_hand2.png            1280          4092    JPEG Quality=92
+rollover_mariachi_mouth.png             560           816    Lossless
+GSrollover_mouth_chef.png               266           280    Lossless
+GSrollover_glow_chef.png               2645         14768    Lossless
+rollover_social.png                    5084         39904    JPEG Quality=92
+rollover_friends_mouth.png              605          1380    Lossless
+rollover_friends_glow.png              9905        100392    JPEG Quality=92
+rollover_comrades.png                  4957         39904    JPEG Quality=92
+rollover_reel.png                      1086          2800    Lossless
+windowshade_small.png                  1529        130096    JPEG Quality=60
+painting1.png                        216120       2747200    Imported JPEG
+staff_plate_shadow.png                59275       1370880    JPEG Quality=60
+staff_plate_NEW1.png                  61282       2747200    JPEG Quality=80
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                       Bytes         Format
+-----------------------------    ----------    ------
+ticktock.aiff                          3870    11KHz Mono 16 kbps MP3
+squelch01.mp3                          1101    11KHz Mono 16 kbps MP3
+smooth_button_click05.mp3               706    11KHz Mono 16 kbps MP3
+sloth.mp3                             20876    11KHz Mono 16 kbps MP3
+singlebark.mp3                         1299    11KHz Mono 16 kbps MP3
+pop_11.mp3                              805    11KHz Mono 16 kbps MP3
+organic_whoosh_19.mp3                  5578    11KHz Mono 16 kbps MP3
+organic_whoosh_11.mp3                  9948    11KHz Mono 16 kbps MP3
+organic_whoosh_10.mp3                  3591    11KHz Mono 16 kbps MP3
+organic_whoosh_04.mp3                 10346    11KHz Mono 16 kbps MP3
+organic_whoosh_01.mp3                 12730    11KHz Mono 16 kbps MP3
+Mariachi!.mp3                         29579    11KHz Mono 16 kbps MP3
+JBJ-TheGreatSociety2.mp3              98795    11KHz Mono 16 kbps MP3
+curtains_open_03.mp3                   1991    11KHz Mono 16 kbps MP3
+curtains_close_03.mp3                 12333    11KHz Mono 16 kbps MP3
+coin_jingle12.mp3                      2796    11KHz Mono 16 kbps MP3
+coin_jingle07.mp3                      2994    11KHz Mono 16 kbps MP3
+book_drop02_b.mp3                      1892    11KHz Mono 16 kbps MP3
+bed_sheet_movement_06.mp3             22267    11KHz Mono 16 kbps MP3
+basketball_crowd_swell_06.mp3         78696    11KHz Mono 16 kbps MP3
+barkD.mp3                              5975    11KHz Mono 16 kbps MP3
+barkC.mp3                              6969    11KHz Mono 16 kbps MP3
+barkB.mp3                              5975    11KHz Mono 16 kbps MP3
+barkA.mp3                              6471    11KHz Mono 16 kbps MP3
+newspaper_unfold01.mp3                 4266    11KHz Mono 16 kbps MP3
+
+
+
+

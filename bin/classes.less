@@ -1,0 +1,262 @@
+/* font styling */
+@red:#BE1E2D;				/* */
+@grey:#808285;				/* */
+@darkGrey:#484848;			/* */
+@mustard:#f9c958;			/* */
+@bodyCopyGrey:#7A7B7B;		/* */
+@warmDrkGrey:#433D3D; 		/* about timeline nav background */
+@footerGrey:#58595b;		/* used in footer and inputs */
+@brightRed:#C11113;			/* */
+@lightGrey:#939598;			/* used on the shop page */
+@white:#FFFFFF;
+@warmGrey:#604547;			/* used on pairing page */
+@pairingMustard:#cf9028;	/* used on pairing page */
+@pairingIntroMustard:#ffcd5d; /* used for the What Goes with What? intro  */
+/* end font styles */
+
+/* global variables */
+@pageWidth:982px; 
+@dashedBorder:rgba(0,0,0,0.6);
+@dashedBorderWhite:rgba(255,255,255,0.6);
+/* end global variables */
+
+/* pairing guide variables */
+@pairingHorzNavWordWrapSpacing:12px;
+/* end pairing guide variables */
+
+.border-radius( @radius: 3px ) {
+	-webkit-border-radius: @radius;
+	   -moz-border-radius: @radius;
+	        border-radius: @radius;		
+}
+
+.outline-radius( @radius: 3px ) {
+	-webkit-outline-radius: @radius;
+	   -moz-outline-radius: @radius;
+	        outline-radius: @radius;		
+}
+
+.user-select(@select:none) {
+	-webkit-user-select:@select;
+	-moz-user-select:@select;
+	-o-user-select:@select;
+	-ms-user-select:@select;
+	user-select:@select;
+}
+
+.box-shadow( 
+	@x : 2px, 
+	@y : 2px, 
+	@blur : 5px, 
+	@spread : 0, 
+	@color : rgba(0,0,0,.6) 
+) {
+	-webkit-box-shadow: @x @y @blur @spread @color;
+	   -moz-box-shadow: @x @y @blur @spread @color;	
+			box-shadow: @x @y @blur @spread @color;	
+}
+
+.box-shadow-inset( 
+	@x : 2px, 
+	@y : 2px, 
+	@blur : 5px, 
+	@spread : 0, 
+	@color : rgba(0,0,0,.6) 
+) {
+	-webkit-box-shadow:inset @x @y @blur @spread @color;
+	   -moz-box-shadow:inset @x @y @blur @spread @color;	
+			box-shadow:inset @x @y @blur @spread @color;	
+}
+
+.transition(
+	@what : all,
+	@length : 1s,
+	@easing : ease-in-out
+) {
+	-webkit-transition: @what @length @easing;
+	   -moz-transition: @what @length @easing;
+	     -o-transition: @what @length @easing;
+		-ms-transition: @what @length @easing;
+		  	transition: @what @length @easing;			
+}
+
+.transition-delay(
+	@delay : 100ms
+) {
+	-webkit-transition-delay: @delay;
+	-moz-transition-delay: @delay;
+	-o-transition-delay: @delay;
+	-ms-transition-delay: @delay;
+	transition-delay: @delay;
+}
+
+.transform(
+	@params 
+) {
+	-webkit-transform: @params;
+  	   -moz-transform: @params;
+  	        transform: @params;
+}
+
+.box(
+	@orient : horizontal,
+	@pack : center,
+	@align : center
+) {
+	display: -webkit-box;
+	   display: -moz-box;	
+	        display: box;
+
+	-webkit-box-orient: @orient;
+	   -moz-box-orient: @orient;
+	   		box-orient: @orient;
+	   		
+	-webkit-box-pack: @pack;
+	   -moz-box-pack: @pack;
+	        box-pack: @pack;		
+	        
+	-webkit-box-align: @align;
+	   -moz-box-align: @align;
+			box-align: @align;		
+}
+ 
+.flex( @val : 1 ) {
+	-webkit-box-flex: @val;
+	   -moz-box-flex: @val;
+	        box-flex: @val;
+}
+
+.resize( @direction ) {
+	-webkit-resize: @direction;
+	   -moz-resize: @direction;
+	        resize: @direction;
+}
+
+ 
+.linear-gradient-horz( 
+	@begin: black, 
+	@end: white,
+	@switch : 100%
+) {
+	background:  @begin;
+    background: -webkit-gradient(linear, right top, left top, color-stop(0, @begin), color-stop(@switch, @end) );
+	background: -moz-linear-gradient(right center, @begin, @end @switch);
+	background: -o-linear-gradient(right center, @begin, @end @switch);
+	background: -ms-linear-gradient(right center, @begin, @end @switch);
+	background: linear-gradient(right center, @begin, @end @switch);
+}
+
+
+.linear-gradient( 
+	@begin: black, 
+	@end: white,
+	@switch : 100%
+) {
+	background:  @begin;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(@begin), color-stop(@switch, @end));
+	background: -moz-linear-gradient(top, @begin, @end @switch);
+	background: -o-linear-gradient(top, @begin, @end @switch);
+	background: -ms-linear-gradient(top, @begin, @end @switch);
+	background: linear-gradient(top, @begin, @end @switch);
+}
+    
+.double-borders( 
+	@colorOne : green,
+	@colorTwo : red,
+	@radius : 0
+) {
+	border: 1px solid @colorOne;
+		
+	-webkit-box-shadow: 0 0 0 1px @colorTwo;	
+	   -moz-box-shadow: 0 0 0 1px @colorTwo;
+	   		box-shadow: 0 0 0 1px @colorTwo;
+	   		
+	.border-radius( @radius );
+}
+
+.triple-borders( 
+	@colorOne : green,
+	@colorTwo : red,
+	@colorThree : blue,
+	@radius : 0
+) {
+	border: 1px solid @colorOne;
+	
+	.border-radius( @radius );
+
+	-webkit-box-shadow: 0 0 0 1px @colorTwo, 0 0 0 2px @colorThree;	
+	   -moz-box-shadow: 0 0 0 1px @colorTwo, 0 0 0 2px @colorThree;
+	   		box-shadow: 0 0 0 1px @colorTwo, 0 0 0 2px @colorThree;
+}
+
+.columns(
+	@count : 3,
+	@gap : 10
+) {
+	-webkit-column-count: @count;
+	   -moz-column-count: @count;
+	        column-count: @count;
+
+	-webkit-column-gap: @gap;
+	   -moz-column-gap: @gap;
+	        column-gap: @gap;
+}
+
+.box-sizing( @type : border-box) {
+	-webkit-box-sizing: @type;
+	-moz-box-sizing: @type;
+	-ms-box-sizing: @type;
+	-o-box-sizing: @type;
+	box-sizing: @type;
+}
+
+.box-sizing-calc(
+	@type : border-box,
+	@width : 0px,
+	@height: 0px,
+	@paddingT: 0px,
+	@paddingR: 0px,
+	@paddingB : 0px,
+	@paddingL : 0px,
+	@borderT : 0px,
+	@borderB : 0px,
+	@borderR : 0px,
+	@borderL : 0px
+) {
+	.box-sizing();
+ 	padding:@paddingT @paddingR @paddingB @paddingL;
+	border-width:@borderT @borderB @borderR @borderL;
+	width:@width;
+	height:@height;
+	*width:@width - (@paddingL + @paddingR) - (@borderL + @borderR);
+	*height:@height - (@paddingT + @paddingB) - (@borderT + @borderB); 
+}
+
+.input-placeholder(@color : inherit) {
+	-webkit-input-placeholder:@color;
+	input-placeholder:@color;
+}
+
+.imgText() {
+	text-indent:-99999em;
+	display:block;
+	cursor:pointer;
+}
+
+.serifFont() {
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+.invertHover() {
+	color:white;
+	background-color:@darkGrey;
+	text-decoration:none;
+}
+
+.clr() {
+	content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}

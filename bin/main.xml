@@ -1,0 +1,197 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xml 
+autoPlayMusic="true"	
+musicVol="1"
+workHREF = "http://greatsociety.com/work"
+>
+
+	<page id="doctrine">
+		
+	</page>
+	
+	<page id="swag">
+		<items>
+			<item title="THE GREAT SOCIETY MEDAL OF HONOR" sku="PROD1" qty="10">
+  <title><![CDATA[THE GREAT SOCIETY<br />MEDAL OF HONOR]]></title>
+  <img src="/assets/images/store/shopitem_medal.png" />
+	<p></p>
+</item>
+<item title="THE GREAT SOCIETY COLLECTOR'S PLATE" sku="PROD1" qty="10">
+  <title><![CDATA[THE GREAT SOCIETY<br />COLLECTOR'S PLATE]]></title>
+  <img src="/assets/images/store/shopitem_plate.png" />
+	<p>The official commemorative plate of The Great Society. Proudly display your allegiance with this decorative, ceramic keepsake.</p>
+</item>
+<item title="THE PEOPLE'S WHIFF WAFF PADDLE" sku="PROD2" qty="20">
+  <title><![CDATA[THE PEOPLE'S<br />WHIFF WAFF PADDLE]]></title>
+  <img src="/assets/images/store/shopitem_whiffwhaff.png" />
+	<p>Play like the pros with this custom mallet, approved by The Great Society Table Tennis Association and adorned with the GS monogram.</p>
+</item>
+<item title="THE PEOPLE'S SUNFLOWER POSTER" sku="21901" qty="100">
+  <title><![CDATA[THE PEOPLE'S<br />SUNFLOWER POSTER]]></title>
+  <img src="/assets/images/store/shopitem_sunflowerposter.png" />
+	<p>A limited-edition, hand-screenprinted tribute to the prosperity and beneficence of The Great Society.</p>
+</item>
+<item title="THE GREAT SOCIETY POCKET CALENDAR" sku="21901" qty="100">
+  <title><![CDATA[THE GREAT SOCIETY<br />POCKET CALENDAR]]></title>
+  <img src="/assets/images/store/shopitem_calendar.png" />
+	<p>A constant reminder that with each passing day of association with The Great Society you grow closer to achieving brand nirvana.</p>
+</item>
+<item title="THE PEOPLE'S FLYING DISC" sku="21901" qty="100">
+  <title><![CDATA[THE PEOPLE'S<br />FLYING DISC]]></title>
+  <img src="/assets/images/store/shopitem_frisbee.png" />
+	<p>This Great Society vinyl disc promotes wholesome camaraderie and is a metaphor that through good works our dreams can take flight.</p>
+</item>
+<item title="THE GREAT SOCIETY BOMB T-SHIRT" sku="21901" qty="100">
+  <title><![CDATA[THE GREAT SOCIETY<br />BOMB T-SHIRT]]></title>
+  <img src="/assets/images/store/shopitem_greenbombtee.png" />
+	<p>Let the organic cotton of The Great Society caress your skin and proclaim to all who admire it that through work we shall prosper.</p>
+</item>
+<item title="THE GREAT SOCIETY LADYBOMB T-SHIRT" sku="21901" qty="100">
+  <title><![CDATA[THE GREAT SOCIETY<br />LADYBOMB T-SHIRT]]></title>
+  <img src="/assets/images/store/shopitem_pinkbombtee.png" />
+	<p>The feminine version of our popular classic, fitted with pink capped sleeves, proclaims to the world that you and The Great Society truly are the bomb.</p>
+</item>
+<item title="THE SQUIRREL T-SHIRT" sku="21901" qty="100">
+  <title><![CDATA[THE SQUIRREL<br />T-SHIRT]]></title>
+  <img src="/assets/images/store/shopitem_greensquirreltee.png" />
+	<p>A Great Society favorite: The GS squirrel, symbol of hard work and frugal responsibility, is a shining example of The Great Society work ethic.</p>
+</item>
+<item title="THE LADYSQUIRREL T-SHIRT" sku="21901" qty="100">
+  <title><![CDATA[THE SQUIRREL<br />T-SHIRT]]></title>
+  <img src="/assets/images/store/shopitem_pinksquirreltee.png" />
+	<p>Now women can celebrate this industrious rodent too. Fitted with pink capped sleeves and Great Society monogram on the shoulder.</p>
+</item>
+<item title="THE GREAT SOCIETY BERSERKER T-SHIRT" sku="21901" qty="100">
+  <title><![CDATA[THE GREAT SOCIETY<br />BERSERKER T-SHIRT]]></title>
+  <img src="/assets/images/store/shopitem_redpixelguytee.png" />
+	<p>We've appropriated this digital-age classic and promoted him to Great Society Associate.</p>
+</item>
+		</items>
+	</page>
+	
+
+  
+  
+  <page id="speaks-out" class="link">
+		<links>
+			<link title="Twitter" href="http://twitter.com/#!/societyspeak" />
+<link title="Vimeo" href="http://vimeo.com/tgs" />
+		</links>
+	</page>
+  
+	<page id="comrades">
+		<links>
+			<link title="CO Design" href="http://www.co-hq.com" />
+<link title="Bruce Harris Retouching" href="http://www.bruceharrisretouching.com/" />
+<link title="Michael Jones Photography" href="http://www.michaeljonesphotostudio.com/" />
+<link title="Tyler Marchus Illustration" href="http://www.behance.net/TylerMarchus" />
+<link title="Edit Jones" href="http://www.editjones.com/" />
+<link title="Wilderness" href="http://www.wildernessoffice.com" />
+<link title="Shoam Thomas Design" href="http://cargocollective.com/shoam" />
+<link title="Orange Wall Studios" href="http://www.orangewallstudios.com" />
+<link title="Rebecca Hynes" href="http://www.rebeccahynes.com" />
+<link title="Kamp Grizzly" href="http://www.kampgrizzly.com" />
+<link title="Barista" href="http://www.baristapdx.com" />
+<link title="Premier Press" href="http://www.premierpress.com" />
+<link title="Freewire" href="http://www.freewirebroadband.com" />
+<link title="Amir Tadjedin" href="http://www.mzclaw.com" />
+<link title="Jim Riswold" href="http://www.jimriswold.com" />
+<link title="Mike Folino" href="https://www.linkedin.com/profile/view?id=21275782&amp;authType=NAME_SEARCH&amp;authToken=bAPj&amp;locale=en_US&amp;srchid=1c615199-5e1c-4f71-8c7d-70343068917a-0&amp;srchindex=1&amp;srchtotal=6" />
+<link title="Lord Blakely" href="http://www.lordblakely.com" />
+<link title="Justin Stark" href="http://www.starklawoffice.com" />
+<link title="Greg McWade" href="http://www.mcwadecpa.com" />
+<link title="David Emmitte" href="http://www.davidemmite.com" />
+<link title="Noah Mickens" href="http://en.wikipedia.org/wiki/Noah_Mickens" />
+<link title="Tim Hanrahan" href="http://timhanrahan.net/" />
+		</links>
+	</page>
+  
+  <page id="meet-gs">
+		<p></p>
+		<employees>
+			<employee id="scott-cowan" title="Scott Cowan" jobTitle="President, Strategy">
+				<video src="" />
+  <p><![CDATA[It is a long, uphill road from strategic Sandinista to El Presidente, but for the crowning majesty of The Great Society, Scott Cowan walked barefoot. In his lustrous career, Scott has sold popcorn door-to-door, gotten up at 4:00 AM for seven consecutive summers to pick strawberries and endured the drunken heckling of friends while working the graveyard shift as a busboy at Perkins Cake & Steak. More recently, Scott was partner, strategy & new business director at JohnsonCowanHanrahan, as well as a strategist at Wieden+Kennedy (Portland), Arnold (Boston), Publicis (Seattle) and elsewhere.
+Scott has had the good fortune of working on some fantastic global accounts like Nike, Volkswagen, Amazon.com, Nestlé and many others. Scott is a relentlessly curious, multi-dimensional thinker who brings a holistic perspective to clients’ businesses. 
+Recently, Scott and his family had the experience of a lifetime when they adopted <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/scott_tian.jpg">Tian</a></font>, a one-year-old girl from China. It was especially memorable because of the crowds his Mandarin-conversant five-year-old daughter <font color='#bc1b21'><a href="javascript:NewWindow=window.open('images/staff/scott_charlotte.mov','newWin','width=320,height=240,left=300,top=200,toolbar=No,location=No,scrollbars=No,status=No,resizable=No,fullscreen=No');NewWindow.focus(); void(0);">Charlotte</a></font> drew wherever she went.
+Scott is also The Great Society’s reigning <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/scott_pingpong.jpg">table tennis champion</a></font>, having trounced the field in the Holiday Classic, thus raising the notoriety of The Great Society Table Tennis Association to unforeseen heights amongst table sport aficionados.
+<a href="mailto:scott@greatsociety.com?subject=website">E-mail Scott.</a>]]></p>
+			</employee>
+<employee id="randall-schoonover" title="Randall Schoonover" jobTitle="Brand Content">
+				<video src="" />
+  <p><![CDATA[The pathway to The Great Society has been both divergent and meandering for Randall <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/randall_reed.jpg">Reed</a></font> Schoonover. Randall’s most humble beginnings on <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/randall_farm.jpg">a farm</a></font> near Molalla, Oregon, came to a crashing halt when his father, table tennis legend <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/randall_irwin.jpg">Irwin C. Schoonover</a></font>, auctioned off the acreage in the 80s. With a degree and little else in hand, Randall made his way to San Francisco, where he lived in fellow Society member Scott Cowan’s hallway closet for a short time.
+There, like his <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/randall_grandpa.jpg">grandfather</a></font> before him, he practiced a variety of trades including parking valet, balloon delivery boy and gut-bucket rock guitarist before finding his way into art school and a career as an adman.
+Nigel Williams, Randall’s first creative director at TBWA\Chiat\Day, still insists that he was so shorthanded that he swore he’d hire the next warm body that walked through the door. So began Randall’s six-year saga as an art director on the Nissan account. Years of freelance and Associate Creative Director roles at Foote Cone & Belding and JWT followed before Randall headed back to Portland, Oregon, and once again joined Scott Cowan at JohnsonCowanHanrahan.
+Randall oversees all creative development at The Society and is himself a limitless source of challenging, provocative ideas. He has three fantastic children and an ancient yellow Lab named Victor and works tirelessly each day for the betterment of his clients' businesses and the shining glory of The Great Society.
+<a href="mailto:randy@greatsociety.com?subject=website">E-mail Randall.</a>]]></p>
+			</employee>
+<employee id="jen-tadjedin" title="Jen Tadjedin" jobTitle="Society Management">
+				<video src="" />
+  <p><![CDATA[Let the good deeds of The Great Society spread far and wide! A lifetime of <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/jen_passport.jpg">traveling</a></font>, makes Jen the perfect missionary for the Great Society. After school, she and a friend did that epic, yearlong, 18-country around-the-world pilgrimage that the rest of us kick ourselves for never having done. She’s also lived abroad in both Spain and <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/jen_inka.jpg">Peru</a></font>.        
+Jen has worked both sides of the table in her career. She’s had marketing jobs at Oracle, Kimpton Hotel & Restaurant Group, Food.com and elsewhere. And she had a memorable run in account management at Goodby, Silverstein & Partners before moving to Portland and joining Scott and Randall to manage day-to-day Society operations and act as primary client liaison. 
+Of all of us, Jen has the best last name, hands down. For that, she can thank her husband, Amir Tadjedin, a lawyer in town who helped in getting The Society started. The future of The Great Society is secure now that Jen is pregnant with the next generation of Societicians. This will be Jen and Amir’s second child – <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/jen_clementine.jpg">Clementine</a></font>, the sergeant at arms of Society security, was their first and would gladly risk life, limb and tail to protect the hallowed halls of The Great Society.
+<a href="mailto:jen@greatsociety.com?subject=website">E-mail Jen.</a>]]></p>
+			</employee>
+<employee id="matt-warner" title="Matt Warner" jobTitle="Graphic Design">
+				<video src="" />
+  <p><![CDATA[The benevolent voice of The Great Society beckoned Matt Warner who dutifully answered the call. Matt grew up in Anamosa, Iowa, which, in addition to a whole lot of farmers, is home to the <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/matt_fortress.jpg">“White Stone Fortress of the West.”</a></font> It is also the birthplace of Grant Wood, who painted this <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/matt_ditty.jpg">little ditty</a></font>. After Matt maximized the available local career opportunities detasseling corn, baling hay and delivering Domino's Pizza, he shipped out to college on an ROTC scholarship. Just weeks from flight school, where he was to learn to fly helicopters, Matt blew out his knee, thus necessitating career change #1. 
+After <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/matt_unclesam.jpg">parting ways </a></font>with Uncle Sam, Matt worked briefly as a substitute teacher in Waterloo before meeting his future wife, which ultimately led to career change #2 (design) and a move to Portland. Once in the Rose City, Matt got married and did tours at Sandstrom Design, Wieden+Kennedy and Nike. Most recently, he was design director at Publicis (Seattle) where he created a design group from scratch.
+Matt is a classic “big picture” kind of guy who enjoys thinking through all the different ways brands can be meaningfully experienced. He has done it all in his design career, for clients large (Nike, adidas, Microsoft, Miller Beer, T-Mobile) and small (you name it). 
+When he’s not working, he’s usually playing with his three great kids <font color='#bc1b21'><a href="asfunction:_root.staffPic,images/staff/matt_kids.jpg">(Silas, Jack and Grace)</a></font> or Cooper, his flamboyant Rhodesian ridgeback. Through his righteous dedication and honorable stewardship, The Great Society and its clients are propelled to even greater triumphs and achievements.
+<a href="mailto:matt@greatsociety.com?subject=website">E-mail Matt.</a>]]></p>
+			</employee>
+		</employees>
+	</page>
+  
+  <page id="fruits-of-our-labours" title="Fruit of our Labours" audio="true">    
+		<client id="fiskars" title="Fiskars">
+<project id="below-the-line-marketing" title="Below the Line Marketing" longtitle="Fiskars Gardening / Below-the-line marketing">
+				<p><![CDATA[Below-the-line marketing intro text]]></p>
+				<img src="" />
+				<videos>
+					
+				</videos>
+			</project>
+<project id="video-1" title="Video 1" longtitle="">
+				<p><![CDATA[]]></p>
+				<img src="" />
+				<videos>
+					
+				</videos>
+			</project>
+<project id="video-2" title="Video 2" longtitle="">
+				<p><![CDATA[]]></p>
+				<img src="" />
+				<videos>
+					
+				</videos>
+			</project>
+<project id="video-3" title="Video 3" longtitle="">
+				<p><![CDATA[]]></p>
+				<img src="" />
+				<videos>
+					
+				</videos>
+			</project>
+<project id="brand-relaunch" title="Brand Relaunch" longtitle="Fiskars / Brand relaunch">
+				<p><![CDATA[Brand Relaunch intro text]]></p>
+				<img src="" />
+				<videos>
+					
+				</videos>
+			</project>
+</client>
+	</page>
+	
+	<page id="contact">
+		
+	</page>
+	
+	<page id="four-legged-friends">
+		
+	</page>
+	
+	<page id="illustration" class="" href="http://greatsociety.com/flash/illustration.html" />	
+
+</xml>
